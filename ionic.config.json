@@ -1,0 +1,7 @@
+{
+  "name": "codespace-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
